@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-cn">
 
 <head>
     <meta charset="UTF-8">
@@ -32,26 +32,96 @@
             // 封面支持，默认加载的是项目根目录下的_coverpage.md文件
             coverpage: true,
             // 最大支持渲染的标题层级
-            maxLevel: 4,
+            maxLevel: 3,
             // 自定义侧边栏后默认不会再生成目录，设置生成目录的最大层级，建议配置为1或者2
-            subMaxLevel: 2
+            subMaxLevel: 1,
+            //字数统计配置
+            count:{
+            countable:true,
+            fontsize:'0.9em',
+            color:'rgb(90,90,90)',
+            language:'chinese',
+            isExpected: false // 是否显示需要阅读的分钟数
+             },
+            //复制功能配置
+           copyCode: {
+              buttonText: {'/' : '点击复制'},
+              errorText: {'/' : '错误'},
+              successText: {'/' : '已复制'}
+            },
+          //脚注功能
+          plugins: [
+          function(hook) {
+          var footer = [
+         '<hr/>',
+         '<footer>',
+         '<span><a href="https://github.com/chendi20082009">Di Chen</a> &copy;2021.</span>',
+         '<span>Proudly published with <a href="https://github.com/docsifyjs/docsify" target="_blank">docsify</a>.</span>',
+         '</footer>'
+          ].join('');
+
+          hook.afterEach(function(html) {
+          return html + footer;
+       });
+     }
+     ],
+         
+
+           // 全文搜索配置
+          search: 'auto', // 默认值
+
+    search : [
+      '/',            // => /README.md
+      '/guide',       // => /guide.md
+      '/get-started', // => /get-started.md
+      '/zh-cn/',      // => /zh-cn/README.md
+    ],
+
+    // 完整配置参数
+    search: {
+      maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+      paths: [], // or 'auto'
+      placeholder: 'Type to search',
+
+      // 支持本地化
+      placeholder: {
+        '/zh-cn/': '搜索',
+        '/': '输入搜索'
+      },
+
+      noData: 'No Results',
+
+      // 支持本地化
+      noData: {
+        '/zh-cn/': '找不到结果',
+        '/': '找不到结果'
+      },
+
+      // 搜索标题的最大层级, 1 - 6
+      depth: 2,
+
+      hideOtherSidebarContent: false, // 是否隐藏其他侧边栏内容
+
+      // 避免搜索索引冲突
+      // 同一域下的多个网站之间
+      namespace: 'website-1',
+
+      // 使用不同的索引作为路径前缀（namespaces）
+      // 注意：仅适用于 paths: 'auto' 模式
+      //
+      // 初始化索引时，我们从侧边栏查找第一个路径
+      // 如果它与列表中的前缀匹配，我们将切换到相应的索引
+      pathNamespaces: ['/zh-cn', '/ru-ru', '/ru-ru/v1'],
+
+      // 您可以提供一个正则表达式来匹配前缀。在这种情况下，
+      // 匹配到的字符串将被用来识别索引
+      pathNamespaces: /^(\/(zh-cn|ru-ru))?(\/(v1|v2))?/
+    },
+      //
         }
     </script>
 
 
-    <script>
-        // 搜索配置
-        window.$docsify = {
-            search: {
-                maxAge: 86400000,
-                paths: auto,
-                placeholder: '搜索',
-                noData: '找不到结果',
-                depth: 4,
-                hideOtherSidebarContent: false,
-                namespace: 'docsify-demo',
-            }
-        }
     </script>
     <!-- docsify的js依赖 -->
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
@@ -62,19 +132,17 @@
     <!-- 搜索功能支持 -->
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
     <!-- 链接下一篇文章插件, 可以再文章底部显示“下一篇”和“上一篇” -->
-    <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+    <!script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
     <!-- 字数统计 -->
     <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+    <!-- 外链脚本 - External Script -->    
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
+    <!-- 复制到剪贴板，在所有的代码块上添加一个简单的Click to copy按钮来允许用户从你的文档中轻易地复制代码 -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>  
+    <!-- docsify-edit-on-github -->     
+    <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
 
-//Edit on Github
-  <script>
-    window.$docsify = {
-      ......
-      plugins: [
-        EditOnGithubPlugin.create('https://github.com/Snailclimb/JavaGuide-Interview/blob/master/')
-      ],
-    }
-  </script>
+
 
 //增加导航
 <nav>
