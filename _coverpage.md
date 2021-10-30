@@ -1,8 +1,8 @@
 <!-- _coverpage.md -->
 ![logo](https://docsify.js.org/_media/icon.svg)
 
-# 郑州大学 <small>药学院</small>
-> 色谱质谱分析小组。
+# 郑州大学药学院 <small>2021</small>
+> 色谱质谱分析小组
 
 - 气相色谱、气相色谱质谱
 - 液相色谱、液相色谱质谱
