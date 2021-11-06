@@ -12,6 +12,8 @@
 
 <img src="../image/zhangmanyu.png" style="zoom:30%;" />
 
+------
+
 ### 2021级研究生
 
 #### 徐鑫丽
@@ -21,3 +23,4 @@
 #### 王彬
 
 <img src="../image/wangbin.jpg" style="zoom:25%;" />
+
