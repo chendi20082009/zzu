@@ -8,7 +8,7 @@
   - [在读研究生](docs/undergraduate.md)
   - [已毕业学生](docs/graduate.md)
   
-- [**学术论文**](docs/学术论文.md)
+- [**仪器资源**](docs/instrument.md)
 
 - [**新闻动态**](docs/news.md)
 
