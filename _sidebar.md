@@ -1,6 +1,6 @@
 - [**首页**](readme.md)
 
-- [**研究方向**](docs\research.md)
+- [**研究方向**](docs/research.md)
   
 - [**研究团队**](docs/研究团队.md)
   
