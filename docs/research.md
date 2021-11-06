@@ -14,48 +14,57 @@
 
 ### 二、小型设备
 
+------
+
 **1. 掌上低速离心机**
 
 <img src="../image/minicentrifugator.jpg" style="zoom:80%;" align='left' >
 
-
+------
 
 **2. 高速离心机**
 
 <img src="../image/centrifugator.jpg" style="zoom:80%;" align='left' >
 
-
+------
 
 **3. 分析天平**
 
 <img src="../image/balance.jpg" style="zoom:80%;" align='left' >
 
+------
 **4. LONGER兰格实验室四通道注射泵LSP04-1A**
 
 <img src="../image/Longer LSP04-1A.jpg" style="zoom:80%;" align='left' >
 
+------
 **5. 奥盛MS-100恒温混匀仪**
 
 <img src="../image/MS-100.jpg" style="zoom:120%;" align='left' >
 
+------
 **6. 固相萃取装置**
 
 <img src="../image/SPE.jpg" style="zoom:67%;" align='left' >
 
+------
 **7. 氮气吹干仪**
 
 <img src="../image/N2.png" style="zoom:40%;" align='left'>
 
+------
 **8. 红叶迷你小型空气压缩机和喷笔**
 
 <img src="../image/Taiwan leaves.jpg" style="zoom:40%;" align='left'>
 
 <img src="../image/aribrush.jpg" style="zoom:70%;" align='left'>
 
+------
 **9. 梅特勒-托利多pH计**
 
 <img src="../image/pH.jpg" style="zoom:100%;" align='left'>
 
+------
 **10. 暗箱式紫外分析仪**
 
 <img src="../image/UV.jpg" style="zoom:100%;" align='left'>
