@@ -2,6 +2,8 @@
 
 <img src="../image/chendi.jpg" alt="img" style="zoom:40%;" />
 
+
+
 ### **联系方式**
 
 **邮箱:** dichen@zzu.edu.cn；**微信:** chendi20082009
@@ -52,16 +54,18 @@
 
    http://dx.doi.org/10.1016/j.talanta.2019.120172
 
-7. Wen-Chao Han, Nian Shi, Xin-Ying Wang, Zi-Han Wang, Kai-Li Wang, Ming Gao, Lei Yu, **Di Chen\***, Xia Xu*, Application of Natural Cotton Fibers as an Extraction Sorbent for the Detection of trans-Resveratrol in Adulterated Peanut Oils. **Food Chemistry**, 2021, 339, 127885.
+8. **Di Chen**, Jun Han*, David Schibli, Juncong Yang, Zhenzhong Zhang, Christoph H. Borchers, Supermolecule-assisted imaging of low-molecular-weight quaternary-ammonium compounds by MALDI-MS of their non-covalent complexes with cucurbit[7]uril. **RSC Advances**, 2020, 10 (56), 34261.
+   http://dx.doi.org/10.1039/D0RA04604C
+   
+8. **Di Chen**, Jing-Xian Zhang, Wei-Qi Cui, Jun-Wei Zhang, De-Qiao Wu, Xin-Rui Yu, Yan-Bo Luo, Xing-Yi Jiang, Feng-Peng Zhu, Dilshad Hussain, Xia Xu*, A simultaneous extraction/derivatization strategy coupled with liquid chromatography–tandem mass spectrometry for the determination of free catecholamines in biological fluids, **Journal of Chromatography A**, 2021, 1654, 462474.
+   https://doi.org/10.1016/j.chroma.2021.462474
+
+9. Wen-Chao Han, Nian Shi, Xin-Ying Wang, Zi-Han Wang, Kai-Li Wang, Ming Gao, Lei Yu, **Di Chen\***, Xia Xu*, Application of Natural Cotton Fibers as an Extraction Sorbent for the Detection of trans-Resveratrol in Adulterated Peanut Oils. **Food Chemistry**, 2021, 339, 127885.
 
    http://dx.doi.org/10.1016/j.foodchem.2020.127885
 
-8. **Di Chen**, Jun Han*, David Schibli, Juncong Yang, Zhenzhong Zhang, Christoph H. Borchers, Supermolecule-assisted imaging of low-molecular-weight quaternary-ammonium compounds by MALDI-MS of their non-covalent complexes with cucurbit[7]uril. **RSC Advances**, 2020, 10 (56), 34261.
-   http://dx.doi.org/10.1039/D0RA04604C
-9. Zi-Han Wang, Jing-Xian Zhang, Ming Gao, Wei-Qi Cui, Lu Xu, Xiao-lin Zhu, Jin-Jin Li, Zhi-E Huang, Dilshad Hussain, Jing-Yu Zhang, **Di Chen\***, Xia Xu*, Stable isotope labelling-flow injection analysis-mass spectrometry for rapid and high throughput quantitative analysis of 5-hydroxymethylfurfural in drinks, **Food Control** 2021, 130, 108386.
+10. Zi-Han Wang, Jing-Xian Zhang, Ming Gao, Wei-Qi Cui, Lu Xu, Xiao-lin Zhu, Jin-Jin Li, Zhi-E Huang, Dilshad Hussain, Jing-Yu Zhang, **Di Chen\***, Xia Xu*, Stable isotope labelling-flow injection analysis-mass spectrometry for rapid and high throughput quantitative analysis of 5-hydroxymethylfurfural in drinks, **Food Control** 2021, 130, 108386.
    https://doi.org/10.1016/j.foodcont.2021.108386
-10. **Di Chen**, Jing-Xian Zhang, Wei-Qi Cui, Jun-Wei Zhang, De-Qiao Wu, Xin-Rui Yu, Yan-Bo Luo, Xing-Yi Jiang, Feng-Peng Zhu, Dilshad Hussain, Xia Xu*, A simultaneous extraction/derivatization strategy coupled with liquid chromatography–tandem mass spectrometry for the determination of free catecholamines in biological fluids, **Journal of Chromatography A**, 2021, 1654, 462474.
-    https://doi.org/10.1016/j.chroma.2021.462474
 
 ### **更多**
 
