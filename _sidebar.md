@@ -14,9 +14,9 @@
 
 - [**更多**](docs/more.md)
 
-  - [**常用软件**](docs/soft.md)
-  - [**学术期刊**](docs/journal.md)
-  - [**当我们真想做成一件事时，办法总会比困难多**](docs/jiangchen.md)
+  - [常用软件](docs/soft.md)
+  - [学术期刊](docs/journal.md)
+  - [当我们真想做成一件事时，办法总会比困难多](docs/jiangchen.md)
 
 - ------
 
