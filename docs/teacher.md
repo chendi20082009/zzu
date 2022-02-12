@@ -30,7 +30,31 @@
 
 1. 冯钰锜, **陈迪**, 粉末状磁性吸附剂与常压质谱源的联用分析方法, 专利号: ZL201510055403.0
 
-### **学术论文**
+### 工作以来学术论文
+
+1. **Di Chen**, Jun Han*, David Schibli, Juncong Yang, Zhenzhong Zhang, Christoph H. Borchers, Supermolecule-assisted imaging of low-molecular-weight quaternary-ammonium compounds by MALDI-MS of their non-covalent complexes with cucurbit[7]uril. **RSC Advances**, 2020, 10 (56), 34261.（中科院三区，IF 3.361）
+   http://dx.doi.org/10.1039/D0RA04604C
+
+2. **Di Chen**, Jing-Xian Zhang, Wei-Qi Cui, Jun-Wei Zhang, De-Qiao Wu, Xin-Rui Yu, Yan-Bo Luo, Xing-Yi Jiang, Feng-Peng Zhu, Dilshad Hussain, Xia Xu*, A simultaneous extraction/derivatization strategy coupled with liquid chromatography–tandem mass spectrometry for the determination of free catecholamines in biological fluids, **Journal of Chromatography A**, 2021, 1654, 462474.（中科院一区top，IF 4.759）
+   https://doi.org/10.1016/j.chroma.2021.462474
+
+3. Wen-Chao Han, Nian Shi, Xin-Ying Wang, Zi-Han Wang, Kai-Li Wang, Ming Gao, Lei Yu, **Di Chen\***, Xia Xu*, Application of Natural Cotton Fibers as an Extraction Sorbent for the Detection of trans-Resveratrol in Adulterated Peanut Oils. **Food Chemistry**, 2021, 339, 127885.（中科院一区top，IF 7.514）
+
+   http://dx.doi.org/10.1016/j.foodchem.2020.127885
+
+4. Zi-Han Wang, Jing-Xian Zhang, Ming Gao, Wei-Qi Cui, Lu Xu, Xiao-lin Zhu, Jin-Jin Li, Zhi-E Huang, Dilshad Hussain, Jing-Yu Zhang, **Di Chen\***, Xia Xu*, Stable isotope labelling-flow injection analysis-mass spectrometry for rapid and high throughput quantitative analysis of 5-hydroxymethylfurfural in drinks, **Food Control** 2021, 130, 108386.（中科院一区top，IF 5.548）
+      https://doi.org/10.1016/j.foodcont.2021.108386
+
+5. **Di Chen**，Zi-Han Wang，Wei-Qi Cui，Jing-Xian Zhang，Jun-Wei Zhang，De-Qiao Wu，Zi-Yue Wang，Xin-Rui Yu，Yan-Bo Luo，Dilshad Hussain，Xia Xua***，Journal of Chromatography A**, 2022，Just Accepted. （中科院一区top，IF 4.759）
+   https://www.sciencedirect.com/science/article/pii/S0021967322000899
+
+6. **Di Chen**, Man-Yu Zhang, Xin-Miao Bu, Bin Wang, Xin-Li Xu, Sen Yang, Zhi Sun*，Xia Xu**，In-syringe cotton-supported liquid-phase microextraction coupled with gas chromatography-tandem mass spectrometry for the determination of 3-mono-chloropropane-1,2-diol in edible oils，**Journal of Chromatography A**, Under Review.
+
+7. Xin-Miao Bu, Nian Shi, Man-Yu Zhang, De-Qiao Wu, Wu-Duo Zhao,  Xia Xu, **Di Chen**, High-throughput quantitative MALDI-HRMS assay for screening anabolic-androgenic steroids in healthy foods based on Girard’s reagent P and *d5*-Girard’s reagent P labeling，**Analytical and Bioanalytical Chemistry**, Under Review.
+
+8. Nian Shi, Xin-Miao Bu, Man-Yu Zhang, Bin Wang, Xin-Li Xu, Dilshad Hussain, Xia Xu, **Di Chen**, Current Sample Preparation Methodologies for Determination of Catecholamines and Their Metabolites in Bio-Samples, **Journal of Pharmaceutical and Biomedical Analysis**，Under Review.
+
+### **前期学术论文**
 
 1. Shao-Ting Wang, **Di Chen**, Jun Ding, Bi-Feng Yuan, Yu-Qi Feng*, Borated titania, a new option for the selective enrichment of cis-diol biomolecules. **Chemistry – A European Journal**, 2013, 19, 606-612. 
 
@@ -53,19 +77,6 @@
 6. Yu-Ning Hu**#**, **Di Chen#**, Tian-Yi Zhang, Jun Ding, Yu-Qi Feng*, Use of ammonium sulfite as a post-column derivatization reagent for rapid detection and quantification of aldehydes by LC-MS, **Talanta**, 2020, 206, 120172. (# co-first author) 
 
    http://dx.doi.org/10.1016/j.talanta.2019.120172
-
-8. **Di Chen**, Jun Han*, David Schibli, Juncong Yang, Zhenzhong Zhang, Christoph H. Borchers, Supermolecule-assisted imaging of low-molecular-weight quaternary-ammonium compounds by MALDI-MS of their non-covalent complexes with cucurbit[7]uril. **RSC Advances**, 2020, 10 (56), 34261.
-   http://dx.doi.org/10.1039/D0RA04604C
-   
-8. **Di Chen**, Jing-Xian Zhang, Wei-Qi Cui, Jun-Wei Zhang, De-Qiao Wu, Xin-Rui Yu, Yan-Bo Luo, Xing-Yi Jiang, Feng-Peng Zhu, Dilshad Hussain, Xia Xu*, A simultaneous extraction/derivatization strategy coupled with liquid chromatography–tandem mass spectrometry for the determination of free catecholamines in biological fluids, **Journal of Chromatography A**, 2021, 1654, 462474.
-   https://doi.org/10.1016/j.chroma.2021.462474
-
-9. Wen-Chao Han, Nian Shi, Xin-Ying Wang, Zi-Han Wang, Kai-Li Wang, Ming Gao, Lei Yu, **Di Chen\***, Xia Xu*, Application of Natural Cotton Fibers as an Extraction Sorbent for the Detection of trans-Resveratrol in Adulterated Peanut Oils. **Food Chemistry**, 2021, 339, 127885.
-
-   http://dx.doi.org/10.1016/j.foodchem.2020.127885
-
-10. Zi-Han Wang, Jing-Xian Zhang, Ming Gao, Wei-Qi Cui, Lu Xu, Xiao-lin Zhu, Jin-Jin Li, Zhi-E Huang, Dilshad Hussain, Jing-Yu Zhang, **Di Chen\***, Xia Xu*, Stable isotope labelling-flow injection analysis-mass spectrometry for rapid and high throughput quantitative analysis of 5-hydroxymethylfurfural in drinks, **Food Control** 2021, 130, 108386.
-   https://doi.org/10.1016/j.foodcont.2021.108386
 
 ### **更多**
 
