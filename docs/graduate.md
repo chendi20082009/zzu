@@ -63,6 +63,8 @@
 
 **2021年硕士研究生——韩文超**
 
+![hanwenchao](../image/hanwenchao.png)
+
 在组时间：2018年9月——2021年6月
 
 毕业论文：儿茶酚胺类物质定量分析新方法的建立及其在胰腺癌细胞中的分析应用（指导老师：徐霞、陈迪）
@@ -74,10 +76,9 @@
 - 2020年：研究生国家奖学金、郑州大学“三好研究生”、硕士研究生 A 类学业奖学金、第二届全国药学专业研究生研讨会口头报告三等奖；
 - 2019年：硕士研究生 A 类学业奖学金、郑州大学优秀干部；
 - 2018年：硕士研究生 A 类学业奖学金、主持2018年度郑州大学研究生自主创新项目（重点）
+- **Han, W.-C.**; Shi, N.; Wang, X.-Y.; Wang, Z.-H.; Wang, K.-L.; Gao, M.; Yu, L.; Chen, D.; Xu, X., Application of Natural Cotton Fibers as an Extraction Sorbent for the Detection of trans-Resveratrol in Adulterated Peanut Oils. Food Chemistry. 2020, 339, 127885.
 
-
-
-
+![hanwenchao3](../image/hanwenchao3.png)
 
 **2021年本科毕业生——陆加果**
 
