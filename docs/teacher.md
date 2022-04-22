@@ -28,7 +28,7 @@
 
 ### **国家发明专利**
 
-1. 冯钰锜, **陈迪**, 粉末状磁性吸附剂与常压质谱源的联用分析方法, 专利号: ZL201510055403.0
+1. 
 
 ### 工作以来学术论文
 
@@ -39,7 +39,12 @@
 2. **Di Chen**, Man-Yu Zhang, Xin-Miao Bu, Bin Wang, Xin-Li Xu, Sen Yang, Zhi Sun\*，Xia Xu\*，In-syringe cotton fiber-supported liquid extraction coupled with gas chromatography-tandem mass spectrometry for the determination of free 3-mono-chloropropane-1,2-diol in edible oils，**Journal of Chromatography A, Just Accepted. （中科院小类一区top，IF 4.759）
    https://www.sciencedirect.com/science/article/pii/S0021967322002746
 3. Nian Shi, Xin-Miao Bu, Man-Yu Zhang, Bin Wang, Xin-Li Xu, Dilshad Hussain\*, Xia Xu\*, **Di Chen\***, Current Sample Preparation Methodologies for Determination of Catecholamines and Their Metabolites in Bio-Samples, Molecules, 2022, 27(9), 2702. （中科院三区top，IF 4.412）
-4. Xin-Miao Bu, Nian Shi, Man-Yu Zhang, De-Qiao Wu, Wu-Duo Zhao,  Xia Xu, **Di Chen**, High-throughput quantitative MALDI-HRMS assay for screening anabolic-androgenic steroids in healthy foods based on Girard’s reagent P and *d5*-Girard’s reagent P labeling，**Analytical and Bioanalytical Chemistry**, Under Review.
+   https://www.mdpi.com/1420-3049/27/9/2702
+4. Xin-Miao Bu#, Nian Shi#, Man-Yu Zhang, De-Qiao Wu, Wu-Duo Zhao\*,  Xia Xu\*, **Di Chen\***, High-throughput quantitative MALDI-HRMS assay for screening anabolic-androgenic steroids in healthy foods based on Girard’s reagent P and *d5*-Girard’s reagent P labeling，**Analytical and Bioanalytical Chemistry**, under Review.
+5. **Di Chen**, Xin-Miao Bu, Man-Yu Zhang, Xin-Li Xu, Bin Wang, Yu-Mei Gan, Kai-Xuan Li, Xia Xu\*, Jun Han\*, Nian Shi\*, On-tissue pyrene-1-boronic acid labelling assisted MALDI imaging of catecholamines in porcine adrenal gland sections, submitted.
+6. Honglei Wang, Xueting Liu, Kai-Xuan Li, Dilshad Hussain\*, **Di Chen\***, Current Analytical Strategies for the Determination of Synthetic Antioxidants in Edible Oils,  submitted.
+7. 杜斌,姚寒春,周婕,杨森,**陈迪**. 探索混合式教学中课程思政的实施路径——以色谱分析课程为例, 高教学刊. 2022(03):199-202
+   https://www.cnki.net/kcms/detail/detail.aspx?DbCode=CJFD&dbname=CJFDLAST2022&filename=GJXK202203049
 
 ### 2021
 
@@ -59,7 +64,7 @@
    http://dx.doi.org/10.1039/D0RA04604C
 
 
-### **前期学术论文**
+### **前期学术论文与专利**
 
 1. Shao-Ting Wang, **Di Chen**, Jun Ding, Bi-Feng Yuan, Yu-Qi Feng*, Borated titania, a new option for the selective enrichment of cis-diol biomolecules. **Chemistry – A European Journal**, 2013, 19, 606-612. 
 
@@ -82,6 +87,15 @@
 6. Yu-Ning Hu**#**, **Di Chen#**, Tian-Yi Zhang, Jun Ding, Yu-Qi Feng*, Use of ammonium sulfite as a post-column derivatization reagent for rapid detection and quantification of aldehydes by LC-MS, **Talanta**, 2020, 206, 120172. (# co-first author) 
 
    http://dx.doi.org/10.1016/j.talanta.2019.120172
+   
+7. 冯钰锜, **陈迪**, 粉末状磁性吸附剂与常压质谱源的联用分析方法, 专利号: ZL201510055403.0
+   https://patents.google.com/patent/CN104677976A/zh
+
+8. **陈迪**, 郑浩博, 余琼卫, 等. 磁固相萃取结合解吸电晕束电离质谱用于体液中的三种抗抑郁药的快速分析[C]//中国化学会第二届全国质谱分析学术报告会会议摘要集. 2015.
+   https://kns.cnki.net/kcms/detail/detail.aspx?FileName=ZGHY201510001246&DbName=CPFD2016
+
+9. **陈迪,** 丁俊, 漆楚波, 等. 基于管内固相微萃取与柱后衍生技术的尿液中己醛和庚醛的高效液相色谱-质谱分析方法[C]//第 21 届全国色谱学术报告会及仪器展览会会议论文集. 2017.
+   https://kns.cnki.net/kcms/detail/detail.aspx?FileName=ZGHY201705003108&DbName=CPFD2018
 
 ### **更多**
 
