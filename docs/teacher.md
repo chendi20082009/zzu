@@ -6,19 +6,21 @@
 
 ### **联系方式**
 
-**邮箱:** dichen@zzu.edu.cn；**微信:** chendi20082009
+**邮箱:** dichen@zzu.edu.cn；**微信:** chendi20082009；**办公室**：药学院B112；**实验室**：药学院B203
 
 ### **工作与教育经历**
+
+2018.07-至今，郑州大学，药学院药物分析系，讲师
 
 2021.03-至今，郑州大学，公共卫生学院，博士后
 
 2019.01-2020.03，The UVic-Genome BC Proteomics Centre (British Columbia, Canana), (Cooperation Supervisor: Dr. Christoph Borchers and Dr. Jun Han)，博士后
 
-2018.07-至今，郑州大学，药学院药物分析系，讲师
-
 2013.09-2018.06，武汉大学，分析化学，博士
 
 2009.09-2013.06，武汉大学，化学基地班，学士
+
+2006.09-2009.06，开封高中，宏志班
 
 ### **主持研究项目**
 
@@ -32,15 +34,22 @@
 
 1. **Di Chen**，Zi-Han Wang，Wei-Qi Cui，Jing-Xian Zhang，Jun-Wei Zhang，De-Qiao Wu，Zi-Yue Wang，Xin-Rui Yu，Yan-Bo Luo，Dilshad Hussain，Xia Xua***，Journal of Chromatography A**, 2022，1667，462891. （中科院小类一区top，IF 4.759）
    https://www.sciencedirect.com/science/article/pii/S0021967322000899
+   
 2. **Di Chen**, Man-Yu Zhang, Xin-Miao Bu, Bin Wang, Xin-Li Xu, Sen Yang, Zhi Sun\*，Xia Xu\*，In-syringe cotton fiber-supported liquid extraction coupled with gas chromatography-tandem mass spectrometry for the determination of free 3-mono-chloropropane-1,2-diol in edible oils，**Journal of Chromatography A, Just Accepted. （中科院小类一区top，IF 4.759）
    https://www.sciencedirect.com/science/article/pii/S0021967322002746
+   
 3. Nian Shi, Xin-Miao Bu, Man-Yu Zhang, Bin Wang, Xin-Li Xu, Dilshad Hussain\*, Xia Xu\*, **Di Chen\***, Current Sample Preparation Methodologies for Determination of Catecholamines and Their Metabolites in Bio-Samples, Molecules, 2022, 27(9), 2702. （中科院三区top，IF 4.412）
    https://www.mdpi.com/1420-3049/27/9/2702
-4. Xin-Miao Bu#, Nian Shi#, Man-Yu Zhang, De-Qiao Wu, Wu-Duo Zhao\*,  Xia Xu\*, **Di Chen\***, High-throughput quantitative MALDI-HRMS assay for screening anabolic-androgenic steroids in healthy foods based on Girard’s reagent P and *d5*-Girard’s reagent P labeling，**Analytical and Bioanalytical Chemistry**, under Review.
-5. **Di Chen**, Xin-Miao Bu, Man-Yu Zhang, Xin-Li Xu, Bin Wang, Yu-Mei Gan, Kai-Xuan Li, Xia Xu\*, Jun Han\*, Nian Shi\*, On-tissue pyrene-1-boronic acid labelling assisted MALDI imaging of catecholamines in porcine adrenal gland sections, submitted.
-6. Honglei Wang, Xueting Liu, Kai-Xuan Li, Dilshad Hussain\*, **Di Chen\***, Current Analytical Strategies for the Determination of Synthetic Antioxidants in Edible Oils,  submitted.
-7. 杜斌,姚寒春,周婕,杨森,**陈迪**. 探索混合式教学中课程思政的实施路径——以色谱分析课程为例, 高教学刊. 2022(03):199-202
+   
+4. 杜斌,姚寒春,周婕,杨森,**陈迪**. 探索混合式教学中课程思政的实施路径——以色谱分析课程为例, 高教学刊. 2022(03):199-202
+
    https://www.cnki.net/kcms/detail/detail.aspx?DbCode=CJFD&dbname=CJFDLAST2022&filename=GJXK202203049
+
+5. Xin-Miao Bu#, Nian Shi#, Man-Yu Zhang, De-Qiao Wu, Wu-Duo Zhao\*,  Xia Xu\*, **Di Chen\***, High-throughput quantitative MALDI-HRMS assay for screening anabolic-androgenic steroids in healthy foods based on Girard’s reagent P and *d5*-Girard’s reagent P labeling，**Analytical and Bioanalytical Chemistry**, under Review.
+
+6. **Di Chen**, Xin-Miao Bu, Man-Yu Zhang, Xin-Li Xu, Bin Wang, Yu-Mei Gan, Kai-Xuan Li, Xia Xu\*, Jun Han\*, Nian Shi\*, On-tissue pyrene-1-boronic acid labelling assisted MALDI imaging of catecholamines in porcine adrenal gland sections, to be submitted.
+
+7. Honglei Wang, Xueting Liu, Kaixuan Li, Dilshad Hussain\*, **Di Chen\***, Current Analytical Strategies for the Determination of Synthetic Antioxidants in Edible Oils,  to be submitted.
 
 ### 2021
 
