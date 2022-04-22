@@ -26,11 +26,7 @@
 2. 基于MALDI和DESI双源互补质谱成像技术的纳米载体原位药物释放的可视化研究，河南省自然科学基金青年科学基金，2020.01-2021.12，主持。
 3. 基于稳定同位素标记技术的定量质谱成像方法及其在纳米药物载体生物组织分布和药物释放可视化研究中的应用，第70中国博士后科学基金面上资助，2021.10-2023.01，主持。
 
-### **国家发明专利**
-
-1. 
-
-### 工作以来学术论文
+### 工作以来学术成果
 
 ### 2022
 
@@ -64,7 +60,7 @@
    http://dx.doi.org/10.1039/D0RA04604C
 
 
-### **前期学术论文与专利**
+### **前期成果**
 
 1. Shao-Ting Wang, **Di Chen**, Jun Ding, Bi-Feng Yuan, Yu-Qi Feng*, Borated titania, a new option for the selective enrichment of cis-diol biomolecules. **Chemistry – A European Journal**, 2013, 19, 606-612. 
 
