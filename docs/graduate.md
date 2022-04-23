@@ -63,7 +63,7 @@
 
 **2021年硕士研究生——韩文超**
 
-![hanwenchao](../image/hanwenchao.png)
+<img src="graduate/hanwenchao.png" alt="hanwenchao" style="zoom:50%;" />
 
 在组时间：2018年9月——2021年6月
 
@@ -78,7 +78,7 @@
 - 2018年：硕士研究生 A 类学业奖学金、主持2018年度郑州大学研究生自主创新项目（重点）
 - **Han, W.-C.**; Shi, N.; Wang, X.-Y.; Wang, Z.-H.; Wang, K.-L.; Gao, M.; Yu, L.; Chen, D.; Xu, X., Application of Natural Cotton Fibers as an Extraction Sorbent for the Detection of trans-Resveratrol in Adulterated Peanut Oils. Food Chemistry. 2020, 339, 127885.
 
-![hanwenchao3](../image/hanwenchao3.png)
+<img src="graduate/hanwenchao3.png" alt="hanwenchao3" style="zoom:50%;" />
 
 **2021年本科毕业生——陆加果**
 
@@ -124,7 +124,7 @@
 
 毕业去向：Master of Science in Global Health, Global Studies Institute, University of Geneva（比利时日内瓦大学）
 
-![8323ec1f-2973-44dd-9e49-b8a8d24054ca](../image/linyuling.png)
+<img src="graduate/8323ec1f-2973-44dd-9e49-b8a8d24054ca.png" alt="8323ec1f-2973-44dd-9e49-b8a8d24054ca" style="zoom:50%;" />
 
 
 
