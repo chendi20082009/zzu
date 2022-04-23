@@ -13,6 +13,10 @@
   - [仪器资源](docs/instrument.md)
   - [在线数据库](docs/lib.md)
 
+- [**教学工作**](docs/teaching.md)
+
+  - [学生培养](docs/student_training.md)
+
 - [**新闻动态**](docs/news.md)
 
 - [**更多**](docs/more.md)
