@@ -3,10 +3,15 @@
 <img src="../image/chendi.jpg" alt="img" style="zoom:40%;" />
 
 
-
 ### **联系方式**
 
-**邮箱:** dichen@zzu.edu.cn；**微信:** chendi20082009；**办公室**：药学院B112；**实验室**：药学院B203
+📧**邮  箱:** dichen@zzu.edu.cn；
+
+💬**微  信:** chendi20082009；
+
+:door:**办公室**：药学院B112；
+
+⚗**实验室**：药学院B203
 
 ### **工作与教育经历**
 
@@ -47,9 +52,9 @@
 
 5. Xin-Miao Bu#, Nian Shi#, Man-Yu Zhang, De-Qiao Wu, Wu-Duo Zhao\*,  Xia Xu\*, **Di Chen\***, High-throughput quantitative MALDI-HRMS assay for screening anabolic-androgenic steroids in healthy foods based on Girard’s reagent P and *d5*-Girard’s reagent P labeling，**Analytical and Bioanalytical Chemistry**, under Review.
 
-6. **Di Chen**, Xin-Miao Bu, Man-Yu Zhang, Xin-Li Xu, Bin Wang, Yu-Mei Gan, Kai-Xuan Li, Xia Xu\*, Jun Han\*, Nian Shi\*, On-tissue pyrene-1-boronic acid labelling assisted MALDI imaging of catecholamines in porcine adrenal gland sections, to be submitted.
+6. **Di Chen**, Xin-Miao Bu, Man-Yu Zhang, Xin-Li Xu, Bin Wang, Yu-Mei Gan, Kai-Xuan Li, Xia Xu\*, Jun Han\*, Nian Shi\*, On-tissue pyrene-1-boronic acid labelling assisted MALDI imaging of catecholamines in porcine adrenal gland sections, under review.
 
-7. Honglei Wang, Xueting Liu, Kaixuan Li, Dilshad Hussain\*, **Di Chen\***, Current Analytical Strategies for the Determination of Synthetic Antioxidants in Edible Oils,  to be submitted.
+7. Honglei Wang, Xueting Liu, Kaixuan Li, Dilshad Hussain\*, **Di Chen\***, Current Analytical Strategies for the Determination of Synthetic Antioxidants in Edible Oils,  under review.
 
 ### 2021
 
