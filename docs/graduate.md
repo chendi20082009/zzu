@@ -143,7 +143,9 @@
 
 <img src="../image/8323ec1f-2973-44dd-9e49-b8a8d24054ca.png" alt="8323ec1f-2973-44dd-9e49-b8a8d24054ca" style="zoom:50%;align='left'" />
 
+🏅**奖励奖项：**
 
+- 2020年郑州大学药学院本科生优秀毕业论文（设计）
 
 
 

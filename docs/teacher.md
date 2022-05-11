@@ -106,12 +106,15 @@
 
 9. **陈迪,** 丁俊, 漆楚波, 等. 基于管内固相微萃取与柱后衍生技术的尿液中己醛和庚醛的高效液相色谱-质谱分析方法[C]//第 21 届全国色谱学术报告会及仪器展览会会议论文集. 2017.
    https://kns.cnki.net/kcms/detail/detail.aspx?FileName=ZGHY201705003108&DbName=CPFD2018
+   
+10. 双层固相萃取与硼亲和微萃取联用测定植物体中内源性油菜素内酯，2012.05-2013.03，武汉大学2012年度大学生科学研究项目，5000元，S2012207，**负责人**
+
+11. 基于磁固相萃取-常压质谱联用技术的人体体液中药物分子的快速分析方法研究，2015.06-2017.06，武汉大学研究生自主科研项目（跨学科自主科研项目：药学、化学），2万元，41300003，**负责人**
 
 ### **更多**
 
-1. Researchgate
-   https://www.researchgate.net/profile/Chen_Di2
-
-2. Google scholar
-   https://scholar.google.com/citations?user=dp2a1jcAAAAJ&hl=zh-CN
+1. [Researchgate](https://www.researchgate.net/profile/Chen_Di2)
+2. [Google scholar](https://scholar.google.com/citations?user=dp2a1jcAAAAJ&hl=zh-CN)
+3. [ORCID](https://orcid.org/0000-0002-1303-8038)
+4. 
 
