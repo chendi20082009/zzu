@@ -1,6 +1,5 @@
 # 在读研究生
 
-
 ## 2020级研究生
 
 ### 卜鑫淼
@@ -14,10 +13,9 @@
 毕业院校：郑州华信学院
 
 
-
 #### 张曼玉
 
-<img src="../image/zhangmanyu.png" style="zoom:300%;float:left" />
+<img src="../image/zhangmanyu.png" style="zoom:30%;float:left" />
 
 
 籍		贯：河南荥阳
