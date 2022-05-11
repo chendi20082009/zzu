@@ -15,7 +15,9 @@
 
 - [**教学工作**](docs/teaching.md)
 
-  - [学生培养](docs/student_training.md)
+  - [讲授课程](docs/courses.md)
+  - [创新创业竞赛](docs/undergraduate_competition.md)
+  - [本科业余科研](docs/undergraduate_research.md)
 
 - [**新闻动态**](docs/news.md)
 
