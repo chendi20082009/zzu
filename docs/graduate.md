@@ -1,10 +1,10 @@
 # 已毕业学生
 
-## 2022年毕业生
+# 2022年毕业生
 
-**2022年硕士毕业生——王子涵**
+## 2022年硕士毕业生——王子涵
 
-<img src="../image/wangzihan.png" alt="wangzihan" style="zoom:50%;float:left" />
+<img src="../image/wangzihan.png" alt="wangzihan" style="zoom:50%;align='left'" />
 
 籍		贯：河南周口
 
@@ -23,7 +23,7 @@
 
 
 
-**2022年本科毕业生——陈浩阳**
+## 2022年本科毕业生——陈浩阳
 
 在组时间：2021年12月——2022年6月
 
@@ -33,7 +33,7 @@
 
 
 
-**2022年本科毕业生——雍维静**
+## 2022年本科毕业生——雍维婧
 
 在组时间：2021年12月——2022年6月
 
@@ -43,7 +43,7 @@
 
 
 
-**2022年本科毕业生——滕丽红**
+## 2022年本科毕业生——滕丽红
 
 在组时间：2021年12月——2022年6月
 
@@ -53,7 +53,7 @@
 
 
 
-**2022年本科毕业生——于鑫蕊**
+## 2022年本科毕业生——于鑫蕊
 
 在组时间：2021年12月——2022年6月
 
@@ -63,11 +63,11 @@
 
 
 
-## 2021年毕业生
+# 2021年毕业生
 
-**2021年硕士研究生——韩文超**
+## 2021年硕士研究生——韩文超
 
-<img src="../image/hanwenchao.png" alt="hanwenchao" style="zoom:50%;float:left" />
+<img src="../image/hanwenchao.png" alt="hanwenchao" style="zoom:50%;align='left'" />
 
 籍		贯：河南周口
 
@@ -85,11 +85,11 @@
 - 2018-2019年度郑州大学研究生自主创新项目，[酪氨酸代谢通路中儿茶酚胺类物质的测定方法研究及其在肿瘤诊断中的应用](http://gs.zzu.edu.cn/info/1071/9132.htm)，重点项目，主持
 - **Han, W.-C.**; Shi, N.; Wang, X.-Y.; Wang, Z.-H.; Wang, K.-L.; Gao, M.; Yu, L.; Chen, D.; Xu, X., [Application of Natural Cotton Fibers as an Extraction Sorbent for the Detection of trans-Resveratrol in Adulterated Peanut Oils. Food Chemistry](https://www.sciencedirect.com/science/article/pii/S0308814620317477). 2020, 339, 127885.
 
-<img src="../image/hanwenchao3.png" alt="hanwenchao3" style="zoom:50%;float:left" />
+<img src="../image/hanwenchao3.png" alt="hanwenchao3" style="zoom:50%;align='left'" />
 
 
 
-**2021年本科毕业生——陆加果**
+## 2021年本科毕业生——陆加果
 
 在组时间：2020年12月——2021年6月
 
@@ -99,7 +99,7 @@
 
 
 
-**2021年本科毕业生——李梦琪**
+## 2021年本科毕业生——李梦琪
 
 在组时间：2020年12月——2021年6月
 
@@ -109,7 +109,7 @@
 
 
 
-**2021年本科毕业生—— MARTHA MWABA MULUNGA**
+## 2021年本科毕业生—— MARTHA MWABA MULUNGA
 
 籍		贯：Republic of Zambia（赞比亚）
 
@@ -121,11 +121,11 @@
 
 
 
-## 2020年毕业生
+# 2020年毕业生
 
-**2020年本科毕业生——林玉玲**
+## 2020年本科毕业生——林玉玲
 
-<img src="../image/linyulingphoto.png" alt="linyulingphoto" style="zoom:50%;float:left" />
+<img src="../image/linyulingphoto.png" alt="linyulingphoto" style="zoom:50%;align='left'" />
 
 邮		箱：linyuling427@163.com
 
@@ -137,7 +137,7 @@
 
 毕业去向：Master of Science in Global Health, Global Studies Institute, University of Geneva（比利时日内瓦大学）
 
-<img src="../image/8323ec1f-2973-44dd-9e49-b8a8d24054ca.png" alt="8323ec1f-2973-44dd-9e49-b8a8d24054ca" style="zoom:50%;float:left" />
+<img src="../image/8323ec1f-2973-44dd-9e49-b8a8d24054ca.png" alt="8323ec1f-2973-44dd-9e49-b8a8d24054ca" style="zoom:50%;align='left'" />
 
 
 
