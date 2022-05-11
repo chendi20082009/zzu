@@ -1,5 +1,7 @@
 # 在读研究生
 
+------
+
 ## 2020级研究生
 
 ### 卜鑫淼
@@ -16,9 +18,8 @@
 
 #### 张曼玉
 
-<img src="../image/zhangmanyu.png" style="zoom:10%;float:left" />
+<img src="../image/zhangmanyu.png" style="zoom:300%;float:left" />
 
-------
 
 籍		贯：河南荥阳
 
@@ -30,13 +31,12 @@
 
 ## 2021级研究生
 
-------
 
 ### 徐鑫丽
 
 <img src="../image/xuxinli.png" style="zoom:30%;float:left" />
 
-------
+
 
 籍		贯：河南许昌
 
@@ -44,13 +44,13 @@
 
 本科院校：河南大学
 
-------
+
 
 #### 王彬
 
 <img src="../image/wangbin.jpg" style="zoom:25%;float:left" />
 
-------
+
 
 籍		贯：新疆
 
@@ -58,7 +58,7 @@
 
 本科院校：陕西科技大学
 
-------
+## 2022级研究生
 
 #### 刘雨微
 
