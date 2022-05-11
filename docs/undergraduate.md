@@ -13,7 +13,7 @@
 毕业院校：郑州华信学院
 
 
-### 张曼玉
+## 张曼玉
 
 <img src="../image/zhangmanyu.png" style="zoom:30%;float:left" />
 
@@ -42,7 +42,7 @@
 
 
 
-### 王彬
+## 王彬
 
 <img src="../image/wangbin.jpg" style="zoom:25%;float:left" />
 
