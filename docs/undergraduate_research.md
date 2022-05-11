@@ -1,10 +1,10 @@
 # 本科业余科研
 
-## 一、学术论文
+# 一、学术论文
 
 ### 2022年综述论文（SCI）
 
-**完成成员：**王红磊、刘雪婷
+**完成成员：**2019级本科生王红磊、刘雪婷
 
 **论文题目：**Current Analytical Strategies for the Determination of Synthetic Antioxidants in Edible Oils
 
@@ -18,7 +18,7 @@
 
 
 
-## 二、研究项目
+# 二、研究项目
 
 
 
