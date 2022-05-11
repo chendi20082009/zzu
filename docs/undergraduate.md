@@ -53,7 +53,7 @@
 
 ## 刘雨微
 
-<img src="../image/liuyuwei.jpg" style="zoom:30%;align='left'" />
+<img src="../image/liuyuwei.jpg" style="zoom:13%;align='left'" />
 
 
 籍		贯：
