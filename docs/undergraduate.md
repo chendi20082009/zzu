@@ -1,8 +1,8 @@
 # 在读研究生
 
-### 2020级研究生
+## 2020级研究生
 
-#### 卜鑫淼
+### 卜鑫淼
 
 <img src="../image/buxinmiao.png" style="zoom:100%;float:left" />
 
@@ -18,21 +18,25 @@
 
 <img src="../image/zhangmanyu.png" style="zoom:30%;float:left" />
 
+------
+
 籍		贯：河南荥阳
 
 研究方向：
 
 本科院校：河南中医药大学
 
+------
 
+## 2021级研究生
 
 ------
 
-### 2021级研究生
-
-#### 徐鑫丽
+### 徐鑫丽
 
 <img src="../image/xuxinli.png" style="zoom:30%;float:left" />
+
+------
 
 籍		贯：河南许昌
 
@@ -46,6 +50,8 @@
 
 <img src="../image/wangbin.jpg" style="zoom:25%;float:left" />
 
+------
+
 籍		贯：新疆
 
 研究方向：
@@ -56,6 +62,10 @@
 
 #### 刘雨微
 
+
+
+------
+
 籍		贯：
 
 研究方向：
@@ -65,6 +75,10 @@
 ------
 
 #### 黎文轩
+
+
+
+------
 
 籍		贯：
 
