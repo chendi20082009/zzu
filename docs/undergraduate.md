@@ -16,7 +16,7 @@
 
 #### 张曼玉
 
-<img src="../image/zhangmanyu.png" style="zoom:30%;float:left" />
+<img src="../image/zhangmanyu.png" style="zoom:10%;float:left" />
 
 ------
 
