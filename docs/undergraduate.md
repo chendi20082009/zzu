@@ -4,7 +4,7 @@
 
 ## 卜鑫淼
 
-<img src="../image/buxinmiao.png" style="zoom:100%;float:left" />
+<img src="../image/buxinmiao.png" style="zoom:100%;align='left'" />
 
 籍		贯：河南周口
 
@@ -15,7 +15,7 @@
 
 ## 张曼玉
 
-<img src="../image/zhangmanyu.png" style="zoom:30%;float:left" />
+<img src="../image/zhangmanyu.png" style="zoom:30%;align='left'" />
 
 
 籍		贯：河南荥阳
@@ -30,7 +30,7 @@
 
 ## 徐鑫丽
 
-<img src="../image/xuxinli.png" style="zoom:30%;float:left" />
+<img src="../image/xuxinli.png" style="zoom:30%;align='left'" />
 
 
 
@@ -44,7 +44,7 @@
 
 ## 王彬
 
-<img src="../image/wangbin.jpg" style="zoom:25%;float:left" />
+<img src="../image/wangbin.jpg" style="zoom:25%;align='left'" />
 
 
 
