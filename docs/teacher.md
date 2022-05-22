@@ -2,9 +2,9 @@
 
 <img src="../image/chendi.jpg" alt="img" style="zoom:40%;" />
 
-陈迪，男，硕士生导师，
+### 简介
 
-
+陈迪，男，武汉大学本科、博士，加拿大The UVic-Genome BC Proteomics Centre博士后，硕士研究生导师，郑州大学药物分析系青年教师。主要研究领域包括新型样品前处理技术、靶向质谱分析、质谱成像分析等。主持国家博士后科学基金面上项目、河南省自然科学基金青年项目、郑州大学优秀教师启动基金等多项科研项目。近年来以第一/通讯作者在Journal of Chromatography A、Food Chemistry、Food Control、Talanta、Analyst等药物分析、分析化学、食品分析权威期刊发表SCI论文10余篇。指导本科生创新创业项目和研究生创新创业项目多项。承担有“药物分析实验”、“色谱分析”、“药物色谱分析前沿”、留学生“分析化学”等课程中部分章节的教学工作。Food Chemistry、Journal of Chromatography A、Journal of Chromatography B等多个SCI期刊审稿专家。
 
 ### **联系方式**
 
