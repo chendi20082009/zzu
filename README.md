@@ -1,12 +1,12 @@
-# docsify-themeable
+# 郑州大学—药学院—陈迪课题组
 
-Docsify-themeable is a delightfully simple theme system for [docsify.js](//docsify.js.org). Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE10+).
+**色谱质谱分析小组**
 
-- [Homepage](https://jhildenbiddle.github.io/docsify-themeable) - Live demo, documentation, and theme previews
-- [Demo Sandbox](https://codesandbox.io/s/xv36w4695o) - Online editor with demo docsify-themeable site
+- 气相色谱、气相色谱质谱分析；
+- 液相色谱、液相色谱质谱分析；
+- 基质辅助激光解吸电离质谱分析。
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/jhildenbiddle/docsify-themeable/blob/master/LICENSE) for details.
-
-Copyright (c) John Hildenbiddle ([@jhildenbiddle](https://twitter.com/jhildenbiddle))
+Copyright ©2022 Di Chen, All Rights Reserved. Web Maintain：dichen@zzu.edu.cn
+Update: 2022-05-22.
