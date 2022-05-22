@@ -2,6 +2,9 @@
 
 <img src="../image/chendi.jpg" alt="img" style="zoom:40%;" />
 
+陈迪，男，硕士生导师，
+
+
 
 ### **联系方式**
 
@@ -26,6 +29,22 @@
 2009.09-2013.06，武汉大学，化学基地班，学士
 
 2006.09-2009.06，开封高中，宏志班
+
+### 学术兼职
+
+1、纳米肿瘤学专业委员会普通会员；
+
+2、河南省生物物理学会会员；
+
+3、全国研究生教育评估监测专家库成员；
+
+4、河南省学位论文评估专家库成员；
+
+5、《郑州大学学报（医学版）》审稿专家库成员；
+
+### 奖励奖项
+
+1、2021年度河南省教育信息化优秀成果奖名单，一等奖，主要完成人；
 
 ### **主持研究项目**
 
@@ -116,5 +135,4 @@
 1. [Researchgate](https://www.researchgate.net/profile/Chen_Di2)
 2. [Google scholar](https://scholar.google.com/citations?user=dp2a1jcAAAAJ&hl=zh-CN)
 3. [ORCID](https://orcid.org/0000-0002-1303-8038)
-4. 
 
