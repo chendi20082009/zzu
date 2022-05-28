@@ -44,7 +44,57 @@
 
 ### 奖励奖项
 
-1、2021年度河南省教育信息化优秀成果奖名单，一等奖，主要完成人；
+1、2021年度河南省教育信息化优秀成果奖名单，一等奖，主要完成人（排名第四）；
+
+### 指导学生
+
+1、2022年 “第12届'三创赛'选拔赛”郑州大学校级赛，稳定同位素标记质谱技术快速筛查中成药和保健食品中非法添加的蛋白同化激素，一等奖，负责人：王奕，指导教师：**陈迪**（优秀指导教师）
+
+2、2022年郑州大学第十一届“挑战杯” 大学生创业计划竞赛，品安检验——中成药和保健食品中蛋白同化激素筛查的领跑者，一等奖，负责人：王子月，指导教师：**陈迪**、徐霞、杨森
+
+3、2021年郑州大学研究生自主创新项目指导教师，新型干血吸头产品及其应用开发，一般项目，负责人：张曼玉，指导教师：**陈迪**
+
+4、2021年郑州大学第六届研究生创新创业项目，一种新型棉花支撑液液萃取技术，优秀奖，负责人：卜鑫淼，指导教师：**陈迪**、徐霞
+
+5、2021年郑州大学第六届研究生创新创业项目，稳定同位素标记结合流动注射质谱法用于运动员尿液中兴奋剂的快速筛查，优秀奖，负责人：王子涵，指导教师：徐霞、**陈迪**
+
+6、2021年郑州大学第六届研究生创新创业项目，纯天然降尿酸药物的新发现——冬凌草二萜类化合物，优秀奖，负责人：崔伟琪，指导教师：徐霞、**陈迪**
+
+7、2019年校级大学生创新创业训练项目，基于在线富集与原位衍生技术的生物样品中醛类高灵敏度、自动化质谱分析方法研究，负责人：黄锐艳，一般项目，指导教师：**陈迪**
+
+8、2020年校级大学生创新创业训练项目，基于罗丹明B的多功能MALDI质谱探针及其小分子药物成像应用，一般项目，负责人：李锦锦，指导教师：**陈迪**
+
+9、2021年校级大学生创新创业训练项目，棉花支撑液相萃取结合气相色谱法检测果汁中农药残留，一般项目，负责人：于鑫蕊，指导教师：**陈迪**
+
+10、2021年“国药科技创新创业基金”项目，支撑液相萃取结合气相色谱法检测中药口服液中农药残留，负责人：甘玉梅，指导教师：**陈迪**
+
+11、2022年校级大学生创新创业训练项目，甾醇激素质谱检测试剂盒的开发及其在多囊卵巢综合症诊断中的应用，重点项目，负责人：甘玉梅，指导教师：**陈迪**
+
+### 讲授课程
+
+1、《药物分析实验》之气相色谱实验，药学、药剂专业本科生；
+
+2、《药物分析实验》之气相色谱仪使用，，药物研究院研究生；
+
+3、《小学期大型仪器实习课程》之气相色谱仪原理及使用、液相色谱仪原理及使用，药学、药剂专业本科生；
+
+4、《Analytical Chemistry》之质谱分析，药物研究院本科留学生；
+
+5、《 Experiment of Pharmaceutical Analysis》之气相色谱实验，药物研究院本科留学生；
+
+6、《色谱分析》之第五、六、七章节，药学院药学、药剂专业本科生；
+
+### **在线慕课**
+
+1、学银在线《色谱分析》https://xueyinonline.com/detail/216801858
+
+2、中国大学MOOC“郑州大学木课堂”《色谱分析》https://www.icourse163.org/spoc/course/ZZU-1461257167
+
+### 学生工作
+
+1、2018-2019年，研究生兼职辅导员；
+
+2、2018级药学院本科生药学四班班主任；
 
 ### **主持研究项目**
 
@@ -59,7 +109,7 @@
 1. **Di Chen**，Zi-Han Wang，Wei-Qi Cui，Jing-Xian Zhang，Jun-Wei Zhang，De-Qiao Wu，Zi-Yue Wang，Xin-Rui Yu，Yan-Bo Luo，Dilshad Hussain，Xia Xua***，Journal of Chromatography A**, 2022，1667，462891. （中科院小类一区top，IF 4.759）
    https://www.sciencedirect.com/science/article/pii/S0021967322000899
    
-2. **Di Chen**, Man-Yu Zhang, Xin-Miao Bu, Bin Wang, Xin-Li Xu, Sen Yang, Zhi Sun\*，Xia Xu\*，In-syringe cotton fiber-supported liquid extraction coupled with gas chromatography-tandem mass spectrometry for the determination of free 3-mono-chloropropane-1,2-diol in edible oils，**Journal of Chromatography A, Just Accepted. （中科院小类一区top，IF 4.759）
+2. **Di Chen**, Man-Yu Zhang, Xin-Miao Bu, Bin Wang, Xin-Li Xu, Sen Yang, Zhi Sun\*，Xia Xu\*，In-syringe cotton fiber-supported liquid extraction coupled with gas chromatography-tandem mass spectrometry for the determination of free 3-mono-chloropropane-1,2-diol in edible oils，**Journal of Chromatography A, 1673，436081. （中科院小类一区top，IF 4.759）
    https://www.sciencedirect.com/science/article/pii/S0021967322002746
    
 3. Nian Shi, Xin-Miao Bu, Man-Yu Zhang, Bin Wang, Xin-Li Xu, Dilshad Hussain\*, Xia Xu\*, **Di Chen\***, Current Sample Preparation Methodologies for Determination of Catecholamines and Their Metabolites in Bio-Samples, Molecules, 2022, 27(9), 2702. （中科院三区top，IF 4.412）
@@ -69,11 +119,13 @@
 
    https://www.cnki.net/kcms/detail/detail.aspx?DbCode=CJFD&dbname=CJFDLAST2022&filename=GJXK202203049
 
-5. Xin-Miao Bu#, Nian Shi#, Man-Yu Zhang, De-Qiao Wu, Wu-Duo Zhao\*,  Xia Xu\*, **Di Chen\***, High-throughput quantitative MALDI-HRMS assay for screening anabolic-androgenic steroids in healthy foods based on Girard’s reagent P and *d5*-Girard’s reagent P labeling，**Analytical and Bioanalytical Chemistry**, under Review.
+5. 施念, 张曼玉, 卜鑫淼, 徐鑫丽, 王彬, 徐霞, **陈迪***,稳定同位素标记结合流动注射串联质谱法定量检测葡萄糖注射液中5-羟甲基糠醛, 《郑州大学学报（医学版）》, 2022，已录用。
 
-6. **Di Chen**, Xin-Miao Bu, Man-Yu Zhang, Xin-Li Xu, Bin Wang, Yu-Mei Gan, Kai-Xuan Li, Xia Xu\*, Jun Han\*, Nian Shi\*, On-tissue pyrene-1-boronic acid labelling assisted MALDI imaging of catecholamines in porcine adrenal gland sections, under review.
+6. Xin-Miao Bu#, Nian Shi#, Man-Yu Zhang, De-Qiao Wu, Wu-Duo Zhao\*,  Xia Xu\*, **Di Chen\***, High-throughput quantitative MALDI-HRMS assay for screening anabolic-androgenic steroids in healthy foods based on Girard’s reagent P and *d5*-Girard’s reagent P labeling，**Analytical and Bioanalytical Chemistry**, under Review.
 
-7. Honglei Wang, Xueting Liu, Kaixuan Li, Dilshad Hussain\*, **Di Chen\***, Current Analytical Strategies for the Determination of Synthetic Antioxidants in Edible Oils,  under review.
+7. **Di Chen**, Xin-Miao Bu, Man-Yu Zhang, Xin-Li Xu, Bin Wang, Yu-Mei Gan, Kai-Xuan Li, Xia Xu\*, Jun Han\*, Nian Shi\*, On-tissue pyrene-1-boronic acid labelling assisted MALDI imaging of catecholamines in porcine adrenal gland sections, **Journal of Chromatography A**, under review.
+
+8. Honglei Wang, Xueting Liu, Kaixuan Li, Xia Xu\*, Sen yang*\**, **Di Chen\*****, Current Analytical Strategies for the Determination of Synthetic Antioxidants in Edible Oils, **Journal of Separation Science**, Major Revision. （注：第一、二、三作者均为本科生）
 
 ### 2021
 
